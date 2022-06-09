@@ -1,5 +1,6 @@
 # GamaFormApp
 
+It should work accompany with project FormAppAngular. (https://github.com/annlee916/SaveServiceAPI/)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
